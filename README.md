@@ -65,11 +65,11 @@ Provides deeper analysis of:
 
 ### Executive Churn Overview
 
-![Executive Dashboard](Screenshots/Executive_Churn_Overview.png)
+![Executive Dashboard](images/Executive_Churn_Overview.png)
 
 ### Customer Risk Analysis
 
-![Risk Dashboard](Screenshots/Customer_Risk_Analysis.png)
+![Risk Dashboard](images/Customer_Risk_Analysis.png)
 
 ---
 
